@@ -11,5 +11,5 @@
 <body bgcolor="gray">
 
 <h3> NOMBRE:  <h4> Gerardo Andrade Becerril
-<h3> CREDITO: 
+<h3> VALIDO
 
